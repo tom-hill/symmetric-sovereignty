@@ -1,2 +1,8 @@
 .DS_Store
 .obsidian/
+
+# Never public. The publish script already removes these after every sync
+# (and holds back publication notes and draft pieces by their frontmatter);
+# this is the backstop against a manual copy or a stray `git add`.
+15 Published/Drafts/
+15 Published/Notes/
