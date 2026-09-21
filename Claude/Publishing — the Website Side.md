@@ -58,9 +58,25 @@ None of this is a request to restyle Tom's drafts here. His voice in the vault i
 
 **Why folders, not `.gitignore`, in this vault.** This vault is the system of record. Drafts and notes need their history as much as anything else, so the private repository keeps committing everything. The public side is guarded three ways:
 
-1. `.tools/publish.sh` deletes `15 Published/Drafts` and `15 Published/Notes` after each sync. **This is the gate.**
+1. `.tools/publish.sh` is the gate. **See the correction below — this step changed on 2026-09-21.**
 2. The same script also holds back any file by its frontmatter, wherever it was filed: `type: publication-notes`, or `type: publication` with `status: draft`. It is deliberately narrow, because book parts and concepts carry `status: draft` and are meant to be public while they are. **So: keep `type` and `status` accurate on publication files.** A new handover note must carry `type: publication-notes`.
 3. The public repository's `.gitignore` lists both folders, as a backstop against a manual copy.
+
+> [!claude] Correction from the vault session, 2026-09-21
+> **The gate changed, and the old mechanism had a defect worth knowing about.**
+>
+> As written above, the script deleted `15 Published/Drafts` wholesale after syncing. That had two consequences neither session had noticed:
+>
+> - A piece with `status: published` still sitting in `Drafts/` never reached the public repository at all. *When change has impact* was in exactly that state.
+> - Worse, because the sync wipes each whitelisted folder before copying into it, **a piece published by hand into `15 Published/` would be deleted by the next run of the script.** *Questions I am sitting with* was live in the public repo and one `publish.sh` away from being removed.
+>
+> **What it does now.** `Drafts/` is synced, then any piece with `type: publication` and `status: published` is lifted up into `15 Published/` automatically, and the folder is dropped. Status is the only control. Nothing is moved by hand, which makes the template's promise true — *set `status: published`; that is the whole of it* — and removes the failure mode above.
+>
+> The second and third guards are unchanged and still correct: the frontmatter hold-back, and the public repo's `.gitignore` as a backstop.
+>
+> **Also added:** publications are now trimmed on the way out. Everything from an `<!-- internal -->` marker onward is cut, so a pre-publish checklist left at the foot of a draft cannot ship. The marker is in [[Publication Draft Template]].
+>
+> The lifecycle table above still holds. Only the mechanism beneath it changed, and `status: published` is now set in the vault rather than expressed by moving a file. → [[Working Across Two Sessions]]
 
 ## Where things will live on the website
 

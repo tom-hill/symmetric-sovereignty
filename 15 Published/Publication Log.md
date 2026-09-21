@@ -13,7 +13,7 @@ tags: [index, published]
 |---|---|---|---|---|---|
 | — | [[Questions I am sitting with]] | website, then LinkedIn | the whole `20`/`25` layer | **rewritten by Tom — near ready** | — |
 
-| — | [[When change has impact, what duty do we owe others?]] | reyor.co.uk, then LinkedIn | [[OQ-13 Enumerate the Duties]] | **draft — consent question open** | — |
+| 2026-09-21 | [[When change has impact, what duty do we owe others?]] | reyor.co.uk | [[OQ-13 Enumerate the Duties]] | **live** — set live by the website session; URL to record | — |
 
 ## Statuses
 `draft` → `ready` → `published` → responses logged in [[Encounters Index|75 Encounters]]

@@ -6,6 +6,9 @@ tags: [index, claude]
 ---
 # Claude's Challenges
 
+> [!claude]
+> There are now two Claude sessions on this work. Before doing anything in either, read [[Working Across Two Sessions]].
+
 *Everything Claude contributed while building this vault, in one place, so it can be reviewed, accepted, rejected, or rewritten. Each item also appears in a `> [!claude]` callout where it is relevant. Nothing here is Tom's position.*
 
 ## Structural challenges to the framework
