@@ -52,6 +52,27 @@ If the net cannot be computed, the framework can still ask procedural questions 
 >
 > It also raises the question the procedural test cannot answer by itself: **at what unit must revisability be available** — the individual, or the collective? → [[OQ-18 The Unit of Revisability]]
 
+## The same question, reached from practice — 2026-09-21
+
+Writing up a restructure he led, Tom arrived at this question independently of either of the routes above:
+
+> [!question] Tom
+> Can it be true that my role is to protect the abstract view of the employees without it also being true that I owe that same thing to each person in isolation?
+>
+> → [[When change has impact, what duty do we owe others?]]
+
+**Does a duty owed to a collective decompose into duties owed to each member?**
+
+> [!claude]
+> This is the third arrival at one question. [[OQ-17 Can Sovereignty Be Netted]] asks whether the trade can be counted; [[OQ-18 The Unit of Revisability]] asks at what unit the test applies; this asks whether the duty divides. They are the same fork wearing three coats, and unlike the first two this one came from doing rather than from arguing.
+>
+> The fork, stated plainly — and both arms cost something:
+>
+> - **It decomposes.** Then no restructure is ever permissible, because each individual's duty blocks it. This is the paralysis Tom names in the article, and by his own framework it is also [[Reflection without Paralysis]] failing and [[Tension without Immotion]] with it.
+> - **It does not decompose.** Then "the employees" is an abstraction that **no individual can invoke** — and by [[Duties are Invoked]], a duty nobody can invoke is not a duty. The collective duty evaporates precisely when someone tries to hold you to it.
+>
+> **The case is unusually clean because the company was employee-owned.** Where the employees are the owners, protecting "the business" and protecting "the employees" are the *same* duty at the collective level, and still in direct conflict at the individual level — because the collective is protected by removing some of its members. The usual escape route (shareholders against staff, capital against labour) is closed. There is no third party to carry the decision. That makes it the sharpest test case the vault has for the duty layer, and it was lived rather than constructed.
+
 ## Links
 [[Sovereignty]] · [[Isaiah Berlin]] · [[OQ-08 Why the Obsession]] · [[Optimisation without Suppression]] · [[Authorship vs Imposition]] · [[Feedback Loops as the Scaling Variable]] · [[OQ-16 Morality Across Scales and the Blind Side]] · [[Session — 2026-09-16 — Exit, and What It Is an Instrument Of]]
 

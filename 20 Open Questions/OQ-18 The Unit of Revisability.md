@@ -37,6 +37,9 @@ Every one of those is **nationally imposed, applied to all, decided by few, and 
 ## Note on the small-collective case
 The shared village pot is still forced on any dissenting member of that collective — unless they can leave cheaply. So exit returns at small scale, and Tom's position may reduce to: **legitimacy varies inversely with the cost of leaving.** → [[Exit Cost]]
 
+## A third arrival, from practice
+The same fork reached from a restructure rather than from argument: does a duty owed to a collective decompose into duties owed to each member? Worked at [[OQ-17 Can Sovereignty Be Netted]], and the employee-owned case there is the cleanest version the vault has — because it removes the third party that normally absorbs the conflict. → [[When change has impact, what duty do we owe others?]]
+
 ## Links
 [[Foreclosure]] · [[Exit Cost]] · [[Authorship vs Imposition]] · [[Restraint in Machinery]] · [[Duties are Invoked]] · [[OQ-13 Enumerate the Duties]] · [[OQ-17 Can Sovereignty Be Netted]] · [[Part 11 — Money, Time and the Commons]]
 

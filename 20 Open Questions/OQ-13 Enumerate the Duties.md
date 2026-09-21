@@ -48,6 +48,35 @@ On how duties survive scaling, the session recorded a concession and a correctio
 > [!claude]
 > Tom reached for *shared values* as the mechanism for scaling past the individual — which concedes the case, since values are self-administered by definition and cannot be shared into anyone. The answer arrived at was structural: **restraint built into machinery, not people.** That is what a constitution *is*, and it is the strongest available argument that the duty layer must be enumerable, minimal, and enforceable rather than aspirational. → [[Restraint in Machinery]]
 
+## Duties as Tom actually enumerated them, 2026-09-21
+
+The candidate list above was assembled by reading the material. This one was written under real pressure, in the middle of a restructure that cost people their jobs, and arrived inductively rather than by derivation. → [[When change has impact, what duty do we owe others?]]
+
+> [!question] Tom
+> - It is my duty as a leader in a business to protect that business and do what is best for it.
+> - It is my duty as a leader of people to protect those people and help them as individuals
+> - It is my duty as a person with power, to yield that power with responsibility
+> - It is my duty as an instigator of change to look beyond the initial impact to understand the downstream effects
+> - It is my duty as a human to help protect other humans from undue cruelty
+
+And the duties he treated as settled in practice before listing the contested ones: **a fair and honest process**, and **a clear explanation of why the change was made**.
+
+### What is new here
+
+These are **role-indexed**. Every one begins "as a…" — as a leader in a business, as a leader of people, as a person with power, as an instigator of change, as a human. The vault's candidate list is not indexed to anything; it names duties in the abstract.
+
+> [!claude]
+> That difference may matter more than the content. If duties attach to **roles** rather than to persons, then:
+>
+> - They are invocable by whoever stands opposite that role, which is what [[Duties are Invoked]] requires and the abstract list cannot supply. You can invoke a duty against *the person restructuring your team*; it is much harder to invoke "the duty not to displace".
+> - They **conflict by construction**, because one person occupies several roles at once. Tom's first two duties are in direct opposition and he names that immediately: *"Holding those tensions is hard."* An abstract list hides the conflict; a role-indexed list makes it structural. That is the framework's own principle applied to its constitution.
+> - The last one — *as a human* — is the only unrestricted role, which makes it the floor. It is also the only one phrased as protection **from cruelty**, tying the constitution back to [[Strength without Cruelty]] as its base clause rather than one article among several.
+>
+> The open question this sharpens rather than settles: a constitution whose articles conflict by design needs a rule for what happens when they do. Tom's answer in practice was to hold them and accept the cost, not to rank them. Whether *holding* is available to a constitution — or whether machinery must rank — is [[Restraint in Machinery]] against [[Values vs Duties]], and it is unresolved.
+
+### Still gated
+None of this resolves the binding question. Whether a duty binds a non-consenter remains [[OQ-18 The Unit of Revisability]], and the enumeration cannot be finished before that is chosen.
+
 ## What Tom needs to decide
 - Which of these are duties (owed, binding) vs values (held, self-administered)?
 - On what basis do they bind non-believers? → [[OQ-02 Creed to Prescription]]
