@@ -1,5 +1,15 @@
 ---
 type: publication
+image: 2026-09-22-what-duty-do-we-owe.jpeg
+image_alt: >-
+  A notebook page photographed close and at an angle, the writing running away
+  into soft focus. Sharp across the middle, the question this piece asks:
+  “what duty, what service, what action do we owe to the world to help maintain
+  alignment with both self and values? Who holds us to account? Who needs to
+  ask?” Above it, out of focus, three more: standardisation without uniformity,
+  normalisation without collectivism, individuality without exclusion. The
+  notebook’s elastic runs down the gutter.
+image_caption: The notebook.
 status: published
 created: 2026-09-21
 description: An introspection of recent work that has left me ethically and philosophically unsure. When changes you make have material impacts on others, what duties do we owe them, and where does that line stop?

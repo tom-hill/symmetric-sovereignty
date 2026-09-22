@@ -3,6 +3,16 @@ type: book-part
 status: draft
 source: mixed
 created: 2026-09-15
+image: 2026-09-22-tension-without-immotion.jpeg
+image_alt: >-
+  A notebook page photographed close and at an angle, the writing running away
+  into soft focus. Sharp in the middle: the heading “Tension without
+  Immotion” and the start of the argument this part makes, that active
+  tension, conflict, and change are the natural condition of human flourishing,
+  and that the standardised stillness sold as peace is the deeper danger. Two
+  words are struck through and rewritten mid-sentence. On the facing page, out
+  of focus, are later notes in a second pen.
+image_caption: The notebook.
 tags: [book]
 ---
 # Part 1 — Tension as the Generative Condition
