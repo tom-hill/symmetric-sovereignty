@@ -33,6 +33,7 @@ Atomic notes — one idea each. These are the nodes of the graph. Read a concept
 - [[Duties are Invoked]] — a counterparty with standing is what makes a duty binding
 - [[Restraint in Machinery]] — restraint scales as structure, never as shared values
 - [[Attribution not Blame]] — naming the cause and owning the response, bidirectionally
+- [[Response to Outcome]] — judge by what someone does once the consequences arrive, not by intent
 - [[Feedback Loops as the Scaling Variable]] — what has to be rebuilt at each scale
 
 ## Method and epistemics

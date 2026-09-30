@@ -15,6 +15,8 @@ tags: [index, published]
 
 | 2026-09-21 | [[When change has impact, what duty do we owe others?]] | reyor.co.uk | [[OQ-13 Enumerate the Duties]] | **live** — set live by the website session; URL to record | — |
 
+| 2026-09-30 | [[What is justice?]] | reyor.co.uk | [[OQ-10 Condemnation as Kindness's Shadow]] | **published** — URL to record | — |
+
 ## Statuses
 `draft` → `ready` → `published` → responses logged in [[Encounters Index|75 Encounters]]
 
