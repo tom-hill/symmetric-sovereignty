@@ -17,6 +17,8 @@ tags: [index, published]
 
 | 2026-09-30 | [[What is justice?]] | reyor.co.uk | [[OQ-10 Condemnation as Kindness's Shadow]] | **published** — URL to record | — |
 
+| 2026-10-02 | [[On being lost]] | reyor.co.uk | [[Tension without Immotion]] | **published** — URL to record | — |
+
 ## Statuses
 `draft` → `ready` → `published` → responses logged in [[Encounters Index|75 Encounters]]
 

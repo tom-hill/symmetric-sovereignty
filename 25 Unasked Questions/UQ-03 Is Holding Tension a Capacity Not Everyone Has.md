@@ -29,5 +29,20 @@ The entire framework asks people to hold tension consciously. If the capacity to
 ## Why it is not yet an OQ
 Because the honest version is uncomfortable enough that it needs to be written by hand first. The comfortable version — "it's a skill anyone can learn" — is available, unargued, and probably wrong.
 
+
+## First datum, 2026-10-02
+
+Tom, writing about being lost and trying not to immediately go looking for the next thing:
+
+> [!question] Tom
+> I'm trying to sit with that … to accept that. But the desire (or maybe more honestly discomfort) to keep moving is hard to resist.
+>
+> → [[On being lost]]
+
+> [!claude]
+> This cuts both ways and is more interesting for it. It is evidence that holding tension is **effortful rather than temperamental**, because the person who wrote the framework finds it hard. That weakens the "some people simply cannot" reading.
+>
+> But it is also the first time the difficulty has been observed rather than theorised, and it was observed in the one person most practised at it. If it is this hard for him, the question of what it costs everyone else gets sharper, not softer.
+
 ## Promoted to
 *(not yet)*
