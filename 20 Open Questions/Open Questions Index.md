@@ -15,7 +15,7 @@ The four questions the vault recorded as "queued from the last deep session" wer
 | # | Question | Status |
 |---|---|---|
 | [[OQ-14 Normalisation as the Only Unheld Tension]] | Is normalisation the one force the framework never holds? | **in-progress** |
-| [[OQ-01 Inversion vs Dosage Risks]] | Do "X without Y" formulations fail by inversion or by dosage — and are these different risks? | open |
+| [[OQ-01 Inversion vs Dosage Risks]] | Do "X without Y" formulations fail by inversion or by dosage — and are these different risks? | **resolved 2026-10-28** — neither; X is a capacity and values fail by misdirection |
 | [[OQ-02 Creed to Prescription]] | When did personal creed become prescription, and does the *content* need to change? | open |
 | [[OQ-03 VC Critique — Mechanism or Scale]] | Does the VC critique target the mechanism or its scale? | open |
 | [[OQ-04 The Herbert Question]] | Using a machine to build a philosophy of sovereignty over one's own thinking | open |
@@ -23,7 +23,7 @@ The four questions the vault recorded as "queued from the last deep session" wer
 ## From the notebook margins (Tom's hand)
 | # | Question | Status |
 |---|---|---|
-| [[OQ-05 Three Faces or One Value]] | Are Strength / Agency / Leadership three values or faces of one? | open |
+| [[OQ-05 Three Faces or One Value]] | Are Strength / Agency / Leadership three values or faces of one? | **resolved 2026-10-28** — three capacities, one value |
 | [[OQ-06 Fear]] | How does fear play into the values? Do we fear things, or is fear the thing to be afraid of? | open |
 | [[OQ-07 Is Proactive Reactivity a Value]] | Is it a value, a principle, a guiding action? And is "Tension without Immotion" a rewording? | open |
 | [[OQ-08 Why the Obsession]] | Why the obsession with the most valuable business, the richest person? | open |
@@ -41,11 +41,12 @@ The four questions the vault recorded as "queued from the last deep session" wer
 | [[OQ-10 Condemnation as Kindness's Shadow]] | Why condemnation? What is the mechanism by which kindness inverts? | open |
 | [[OQ-11 The Name]] | The framework rejects "symmetry" as a resolution word. What does "Symmetric" in the title mean? | **resolved 2026-09-16** — symmetry of power, as an act |
 | [[OQ-12 Tension vs Conflict]] | The notebook includes conflict in the natural condition; the dialogue says tension is not conflict. | open |
-| [[OQ-13 Enumerate the Duties]] | The duty layer exists but no duties are listed. | open |
+| [[OQ-13 Enumerate the Duties]] | The duty layer exists but no duties are listed. | **in-progress** — locus settles what is invokable; binding reframed as validity |
 
 ## From sessions
 | # | Question | Status |
 |---|---|---|
+| [[OQ-19 Am I Still Writing the Philosophy I Started]] | Four questions have landed on *govern the process, not the substance*. Is that the philosophy, or a drift from it? | open |
 | [[OQ-17 Can Sovereignty Be Netted]] | Is it legitimate to reduce sovereignty to protect it — and can the trade even be counted? | open |
 
 ## Questions not yet formed

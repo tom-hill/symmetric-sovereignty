@@ -13,7 +13,7 @@ A **load-bearing structural principle**: the legitimacy of any exercise of sover
 ## The five directions (reconstructed — Tom to confirm)
 1. The VC critique — funding that removes founders' exit ([[Part 8 — The Model for Modern Business is Broken]])
 2. [[Commitment without Rigidity]] — holding a goal while able to let it go
-3. [[Vulnerability without Collapse]] — openness without being trapped by it
+3. [[Vulnerability without Exemption]] — openness without being trapped by it
 4. The duty layer's need for a first duty — *do not trap* ([[Values vs Duties]])
 5. The Reyor practice — making change survivable = not cutting off retreat ([[Reyor]])
 

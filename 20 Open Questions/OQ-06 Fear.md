@@ -25,7 +25,7 @@ If that holds, fear may be the *engine of inversion* — the thing that turns X 
 > Tom to write. This one is probably a notebook session, not a dialogue session.
 
 ## Links
-[[Vulnerability without Collapse]] · [[Commitment without Rigidity]] · [[Optimisation without Suppression]] · [[Shadow (Inversion)]] · [[Part 3 — Kindness and the Shadows]]
+[[Vulnerability without Exemption]] · [[Commitment without Rigidity]] · [[Optimisation without Suppression]] · [[Shadow (Inversion)]] · [[Part 3 — Kindness and the Shadows]]
 
 ## Resolution
 > [!blank]

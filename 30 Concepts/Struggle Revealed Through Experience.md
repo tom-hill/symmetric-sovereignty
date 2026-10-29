@@ -13,7 +13,7 @@ Struggle reveals itself through **experience, not stated intention**. Frameworks
 ## Applications
 - The Reyor practice: diagnosis from what an organisation *does* under a discontinuity
 - The philosophy's own method: [[Inductive Method]]
-- [[Vulnerability without Collapse]]: where the line between transparency and collapse actually is, found empirically
+- [[Vulnerability without Exemption]]: where the line between transparency and collapse actually is, found empirically
 
 ## Neighbours
 [[Genuine Wants]] · [[Process Philosophy]]

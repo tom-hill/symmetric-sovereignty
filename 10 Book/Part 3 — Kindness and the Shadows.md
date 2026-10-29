@@ -21,8 +21,14 @@ tags: [book, shadow]
 > [!blank]
 > **Condemnation as kindness's shadow.** Why condemnation and not, say, indulgence or weakness? The choice is interesting — it implies the failure mode of kindness is *moralising*, not softness. That's a strong and non-obvious claim and deserves its own section. → [[OQ-10 Condemnation as Kindness's Shadow]]
 
-> [!blank]
-> **Inversion vs dosage.** Part 3 assumes shadows arrive by *inversion* (the value flips). Part 6 says normalisation arrives by *dosage* (a force displaces progressively). Are these two different failure modes, and do different values fail in different ways? → [[OQ-01 Inversion vs Dosage Risks]]
+> [!claude] Resolved 2026-10-28, and it confirms this part's own hypothesis
+> The blank above asked whether shadows arrive by inversion or by dosage. The answer is **neither: values fail by misdirection**, because X is a neutral capacity and the moral content sits in where it is pointed. → [[OQ-01 Inversion vs Dosage Risks]]
+>
+> That is good news for this part rather than a correction to it. The first blank above proposes that each shadow is what a value becomes *when it stops seeing the other person as a sovereign* — cruelty not seeing the other's strength, domination not seeing their agency. **That is a description of misdirection**, written before there was a word for it, and it was right.
+>
+> So kindness is not a brake on a quantity and not a guard against a flip. **Kindness is what keeps the capacity pointed outward.** It is the continued perception of the other as a sovereign under pressure, which is precisely the condition under which a capacity stays aimed at them rather than at you. That makes kindness structural rather than sentimental, and it makes it the *same* mechanism for every directed value instead of a separate guard for each.
+>
+> It also explains why [[Reflection without Paralysis]] has no kindness guard and needs none. There is nobody to keep in view. Nothing is pointed anywhere.
 
 ## Links
 [[Kindness]] · [[Condemnation]] · [[Shadow (Inversion)]] · [[Values Index]] · [[Part 2 — The Values]] · [[Manuscript Map]]

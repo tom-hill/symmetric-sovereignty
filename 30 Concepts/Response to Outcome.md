@@ -20,6 +20,21 @@ It is the first criterion in the framework that is **observable by a third party
 ## Where it came from
 Written while examining his own failure to apply it. → [[What is justice?]]
 
+
+## Second derivation, 2026-10-28
+
+Reached again, independently, from a different problem: what makes an invoked duty *valid* rather than merely felt, given that cruelty is subjective. → [[OQ-13 Enumerate the Duties]]
+
+> [!question] Tom
+> I can accuse someone of being cruel. What do they do next? […] The ability to hold to account is balanced by the application of other values to the act of being held to account.
+
+The framework does not need a theory of cruelty. **The invocable thing is the response, not the claim.**
+
+> [!claude]
+> Two derivations a month apart, from unrelated problems, the second having forgotten the first. That is as close to independence as [[Convergence as Evidence]] can get inside one mind, and it is the strongest internal support this concept has.
+>
+> It also supplies the answer to this note's own flagged weakness — that a well-staged response is gameable by anyone with resources. **Gameable once; not a hundred times.** A pattern of attentive listening with zero course correction is observable where any single instance is not.
+
 ## Neighbours
 - [[Attribution not Blame]] — *naming the cause and owning the response are both required*. This is the same principle turned outward: attribution is how you handle your own causation, response-to-outcome is how you assess someone else's.
 - [[Struggle Revealed Through Experience]] — prefer observed behaviour to self-report. The same instinct, extended from struggle to character.

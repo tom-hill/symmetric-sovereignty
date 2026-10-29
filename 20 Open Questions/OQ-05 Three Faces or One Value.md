@@ -1,6 +1,6 @@
 ---
 type: open-question
-status: open
+status: resolved
 raised-by: Tom (notebook margin)
 created: 2026-09-15
 tags: [open]
@@ -26,6 +26,16 @@ tags: [open]
 ## Links
 [[Part 2 — The Values]] · [[Spread C — Strength, Agency, Leadership]] · [[Earned Authority]] · [[Sovereignty]]
 
-## Resolution
-> [!blank]
-> *(empty until resolved — then: the answer in one paragraph, and a link to where it was written up)*
+## Resolution — 2026-10-28
+
+**Neither three values nor one. Three capacities governed by one value.**
+
+Strength, agency and leadership are different **capacities**: power over capability, over self, and over systems. They are morally neutral and come in quantities. The **value** is the orientation that must hold across all three — that the capacity is turned toward others rather than toward the self. One value, three capacities. → [[OQ-01 Inversion vs Dosage Risks]]
+
+This is why the three have always felt redundant while their shadows feel entirely distinct. **The orientation is shared; the capacity is not; and the shadow is named after the capacity.** Cruelty, domination and entitlement are three different experiences for the person on the receiving end precisely because three different capacities are being misdirected at them, by one and the same failure.
+
+It also answers the test proposed earlier in this note. *Can you violate one without the others?* Yes, trivially, because you can hold one capacity and not another. The benign but superior leader has leadership and little strength; the cruel peer has strength and no position. That never showed there were three values. It showed there are three capacities.
+
+**Tom's margin question was the right one and the answer is that both options were wrong.** They are not faces of one value, which would make them interchangeable. They are instruments of one value, which makes them distinct and governed in common.
+
+→ Written into [[Part 2 — The Values]].
