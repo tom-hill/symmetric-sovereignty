@@ -125,12 +125,10 @@ Which kind of money is a separate choice. Equity suits a big, uncertain bet wher
 4. **Put the people building it in front of the people buying it.** Even one customer call a fortnight changes the questions engineers ask.
 5. **Then decide.** With the waiting, the priorities, and the inventory in front of you, the hiring question usually answers itself.
 
-If you'd like help with it, that's what I do. In two weeks, find out whether your next stage needs capital, or whether the capacity is already in the building. It's called the Growth Without Dilution Plan: three or four days of my time inside your company, then a written plan showing where your capacity is trapped, what unlocking it takes, and what the alternative raise would cost you in equity, side by side. You keep the plan whatever you decide.
-
 ## Who this is for
 
 This is for founders and CEOs of companies that have grown on their own revenue, exist to do something rather than only to reach an exit, and are being told the next stage needs capital and more engineers.
 
 It isn't for VC-backed companies that have already chosen capital and hypergrowth, for private equity portfolio operations, or for anyone looking for a CTO to run sprints.
 
-**Let's find another way:** [reyor.co.uk/another-way](https://www.reyor.co.uk/another-way)
+If you'd like help with it, that's what I do. In two weeks, find out whether your next stage needs capital, or whether the capacity is already in the building. It's called the Growth Without Dilution Plan: three or four days of my time inside your company, then a written plan showing where your capacity is trapped, what unlocking it takes, and what the alternative raise would cost you in equity, side by side. You keep the plan whatever you decide.
