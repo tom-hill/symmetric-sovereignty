@@ -19,6 +19,8 @@ tags: [index, published]
 
 | 2026-10-02 | [[On being lost]] | reyor.co.uk | [[Tension without Immotion]] | **published** — URL to record | — |
 
+| 2026-10-30 | [[Do I need to raise to hire more engineers?]] | reyor.co.uk, The Desk | `/desk` brief, reyor-website #420 | **published** — first *practice* piece; drafted by Claude, rewritten by Tom. URL to record | — |
+
 ## Statuses
 `draft` → `ready` → `published` → responses logged in [[Encounters Index|75 Encounters]]
 
