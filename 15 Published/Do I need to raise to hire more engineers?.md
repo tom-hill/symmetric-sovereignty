@@ -32,7 +32,7 @@ I've seen this from the inside. Seventy engineers in six teams were shipping on 
 
 The TLDR: it was confusion.
 
-We moved the six teams from waterfall to scrum, and the delivery managers who had been running them became scrum masters or engineering managers depending on their skills and passions, rather than being replaced. Where possible it's better to retain and retrain, because the people who know where the work was buried were the ones best placed to dig it out. Three months became two weeks or less (and getting faster), and in the same year [the function returned the only positive eNPS score in the department](https://www.reyor.co.uk/work).
+We moved the six teams from waterfall to scrum, and the delivery managers who had been running them became scrum masters or engineering managers depending on their skills and passions, rather than being replaced. Where possible it's better to [retain and retrain](https://www.reyor.co.uk/desk/when-change-has-impact-what-duty-do-we-owe-others/), because the people who know where the work was buried were the ones best placed to dig it out. Three months became two weeks or less (and getting faster), and in the same year [the function returned the only positive eNPS score in the department](https://www.reyor.co.uk/work).
 
 So what delivered that speed … it was clarity around their roles, clarity around what mattered to the business and to the customers, and the autonomy to make the decisions needed to reach those ends.
 
