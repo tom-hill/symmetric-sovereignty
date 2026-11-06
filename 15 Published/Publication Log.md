@@ -21,6 +21,8 @@ tags: [index, published]
 
 | 2026-10-30 | [[Do I need to raise to hire more engineers?]] | reyor.co.uk, The Desk | `/desk` brief, reyor-website #420 | **published**, revised same day — first *practice* piece; drafted by Claude, rewritten by Tom. Second CTA cut and the offer moved to the close. URL to record | — |
 
+| 2026-11-06 | [[How do I scale engineering without funding?]] | reyor.co.uk, The Desk | `/desk` brief, reyor-website #420 | **published** — second *practice* piece. Quote used with explicit written permission. URL to record | — |
+
 ## Statuses
 `draft` → `ready` → `published` → responses logged in [[Encounters Index|75 Encounters]]
 
