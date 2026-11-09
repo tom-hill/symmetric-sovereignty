@@ -125,7 +125,7 @@ Which kind of money is a separate choice. Equity suits a big, uncertain bet wher
 4. **Put the people building it in front of the people buying it.** Even one customer call a fortnight changes the questions engineers ask.
 5. **Then decide.** With the waiting, the priorities, and the inventory in front of you, the hiring question usually answers itself.
 
-If you'd like help with it, that's what I do. In two weeks, find out whether your next stage needs capital, or whether the capacity is already in the building. It's called the Growth Without Dilution Plan: three or four days of my time inside your company, then a written plan showing where your capacity is trapped, what unlocking it takes, and what the alternative raise would cost you in equity, side by side. You keep the plan whatever you decide. [Let's find another way](https://www.reyor.co.uk/another-way).
+If you'd like help with it, that's what I do. In two weeks, find out whether your next stage needs capital, or whether the team you already have can get you there. It's called the Growth Without Dilution Plan: three or four days of my time inside your company, then a written plan showing where your capacity is trapped, what unlocking it takes, and what the alternative raise would cost you in equity, side by side. You keep the plan whatever you decide. [Let's find another way](https://www.reyor.co.uk/another-way).
 
 ## Who this is for
 

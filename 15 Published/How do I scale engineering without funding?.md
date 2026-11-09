@@ -103,7 +103,7 @@ So decide up front what you'll measure, which early signs you'll accept on the w
 
 It cost me, too. Moving the 70 engineers to a new way of working cost me my standing with some of the senior leadership, in a company that expected leaders to know every detail. Leaving room for teams to decide meant walking into meetings without the answers they expected, and being honest about the ambiguity instead.
 
-If you'd like help with it, this is what I do. In two weeks, find out whether your next stage needs capital, or whether the capacity is already in the building. It's called the Growth Without Dilution Plan: three or four days of my time inside your company, looking at the delivery itself (how long work waits, where it waits, and why), then a written plan showing where your capacity is trapped, what unlocking it takes, and what the alternative raise would cost you in equity, side by side. You keep the plan whatever you decide.
+If you'd like help with it, this is what I do. In two weeks, find out whether your next stage needs capital, or whether the team you already have can get you there. It's called the Growth Without Dilution Plan: three or four days of my time inside your company, looking at the delivery itself (how long work waits, where it waits, and why), then a written plan showing where your capacity is trapped, what unlocking it takes, and what the alternative raise would cost you in equity, side by side. You keep the plan whatever you decide.
 
 **[Let's find another way](https://www.reyor.co.uk/another-way/)**
 
