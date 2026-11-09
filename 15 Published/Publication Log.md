@@ -11,17 +11,17 @@ tags: [index, published]
 
 | Date | Piece | Where | From | Status | Came back |
 |---|---|---|---|---|---|
-| — | [[Questions I am sitting with]] | website, then LinkedIn | the whole `20`/`25` layer | **rewritten by Tom — near ready** | — |
+| 2026-09-17 | [[Questions I am sitting with]] | [reyor.co.uk](https://www.reyor.co.uk/desk/questions-i-am-sitting-with/), then LinkedIn | the whole `20`/`25` layer | **published** — row corrected 2026-11-09: it still read *rewritten by Tom, near ready* while the piece had been live since 2026-09-17. The vault's own frontmatter said `published`; only this log was behind | — |
 
-| 2026-09-21 | [[When change has impact, what duty do we owe others?]] | reyor.co.uk | [[OQ-13 Enumerate the Duties]] | **live** — set live by the website session; URL to record | — |
+| 2026-09-21 | [[When change has impact, what duty do we owe others?]] | [reyor.co.uk](https://www.reyor.co.uk/desk/when-change-has-impact-what-duty-do-we-owe-others/) | [[OQ-13 Enumerate the Duties]] | **live** — set live by the website session | — |
 
-| 2026-09-30 | [[What is justice?]] | reyor.co.uk | [[OQ-10 Condemnation as Kindness's Shadow]] | **published** — URL to record | — |
+| 2026-09-30 | [[What is justice?]] | [reyor.co.uk](https://www.reyor.co.uk/desk/what-is-justice/) | [[OQ-10 Condemnation as Kindness's Shadow]] | **published** | — |
 
-| 2026-10-02 | [[On being lost]] | reyor.co.uk | [[Tension without Immotion]] | **published** — URL to record | — |
+| 2026-10-02 | [[On being lost]] | [reyor.co.uk](https://www.reyor.co.uk/desk/on-being-lost/) | [[Tension without Immotion]] | **published** | — |
 
-| 2026-10-30 | [[Do I need to raise to hire more engineers?]] | reyor.co.uk, The Desk | `/desk` brief, reyor-website #420 | **published**, revised same day — first *practice* piece; drafted by Claude, rewritten by Tom. Second CTA cut and the offer moved to the close. URL to record | — |
+| 2026-10-30 | [[Do I need to raise to hire more engineers?]] | [reyor.co.uk](https://www.reyor.co.uk/desk/do-i-need-to-raise-to-hire-more-engineers/), The Desk | `/desk` brief, reyor-website #420 | **published**, revised same day — first *practice* piece; drafted by Claude, rewritten by Tom. Second CTA cut and the offer moved to the close. | — |
 
-| 2026-11-06 | [[How do I scale engineering without funding?]] | reyor.co.uk, The Desk | `/desk` brief, reyor-website #420 | **published** — second *practice* piece. Quote used with explicit written permission. URL to record | — |
+| 2026-11-06 | [[How do I scale engineering without funding?]] | [reyor.co.uk](https://www.reyor.co.uk/desk/how-do-i-scale-engineering-without-funding/), The Desk | `/desk` brief, reyor-website #420 | **published** — second *practice* piece. Quote used with explicit written permission. | — |
 
 ## Statuses
 `draft` → `ready` → `published` → responses logged in [[Encounters Index|75 Encounters]]

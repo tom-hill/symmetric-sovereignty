@@ -32,7 +32,7 @@ I've seen this from the inside. Seventy engineers in six teams were shipping on 
 
 The TLDR: it was confusion.
 
-We moved the six teams from waterfall to scrum, and the delivery managers who had been running them became scrum masters or engineering managers depending on their skills and passions, rather than being replaced. Where possible it's better to [retain and retrain](https://www.reyor.co.uk/desk/when-change-has-impact-what-duty-do-we-owe-others/), because the people who know where the work was buried were the ones best placed to dig it out. Three months became two weeks or less (and getting faster), and in the same year [the function returned the only positive eNPS score in the department](https://www.reyor.co.uk/work).
+We moved the six teams from waterfall to scrum, and the delivery managers who had been running them became scrum masters or engineering managers depending on their skills and passions, rather than being replaced. Where possible it's better to [retain and retrain](https://www.reyor.co.uk/desk/when-change-has-impact-what-duty-do-we-owe-others/), because the people who know where the work was buried were the ones best placed to dig it out. Three months became two weeks or less (and getting faster), and in the same year [the function returned the only positive eNPS score in the department](https://www.reyor.co.uk/work/).
 
 So what delivered that speed … it was clarity around their roles, clarity around what mattered to the business and to the customers, and the autonomy to make the decisions needed to reach those ends.
 
@@ -60,7 +60,7 @@ At one company, about a quarter of the front end's code (measured in lines) was 
 
 Most problems are people problems, and most people problems are communication problems. Every hand-off between a customer and the engineer who builds for them is a chance for the reason behind the work to get lost. Bad news that travels slowly arrives as a crisis. A team that can't say who its work is for drifts.
 
-A post-merger engineering team of a little over 30 people was working in silos and shipping reliably less than half the time. The technology wasn't the problem. Six months of building the foundations (structures, a shared language, and clarity about what the work was for) took delivery reliability from below 50% to above 90%, and [a $300K account that was leaving, stayed](https://www.reyor.co.uk/work).
+A post-merger engineering team of a little over 30 people was working in silos and shipping reliably less than half the time. The technology wasn't the problem. Six months of building the foundations (structures, a shared language, and clarity about what the work was for) took delivery reliability from below 50% to above 90%, and [a $300K account that was leaving, stayed](https://www.reyor.co.uk/work/).
 
 ## How can I tell if we're short of people, or short of clarity?
 
@@ -125,7 +125,7 @@ Which kind of money is a separate choice. Equity suits a big, uncertain bet wher
 4. **Put the people building it in front of the people buying it.** Even one customer call a fortnight changes the questions engineers ask.
 5. **Then decide.** With the waiting, the priorities, and the inventory in front of you, the hiring question usually answers itself.
 
-If you'd like help with it, that's what I do. In two weeks, find out whether your next stage needs capital, or whether the team you already have can get you there. It's called the Growth Without Dilution Plan: three or four days of my time inside your company, then a written plan showing where your capacity is trapped, what unlocking it takes, and what the alternative raise would cost you in equity, side by side. You keep the plan whatever you decide. [Let's find another way](https://www.reyor.co.uk/another-way).
+If you'd like help with it, that's what I do. In two weeks, find out whether your next stage needs capital, or whether the team you already have can get you there. It's called the Growth Without Dilution Plan: three or four days of my time inside your company, then a written plan showing where your capacity is trapped, what unlocking it takes, and what the alternative raise would cost you in equity, side by side. You keep the plan whatever you decide. [Let's find another way](https://www.reyor.co.uk/another-way/).
 
 ## Who this is for
 
@@ -133,4 +133,4 @@ This is for founders and CEOs of companies that have grown on their own revenue,
 
 It isn't for VC-backed companies that have already chosen capital and hypergrowth, for private equity portfolio operations, or for anyone looking for a CTO to run sprints.
 
-**[Let's find another way](https://www.reyor.co.uk/another-way)**
+**[Let's find another way](https://www.reyor.co.uk/another-way/)**

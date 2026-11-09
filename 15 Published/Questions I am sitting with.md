@@ -62,5 +62,5 @@ Someone will tell me something that changes it, someone will do something that c
 
 ---
 
-I will keep publishing these as they change, including the ones that turn out to be badly asked, or entirely misunderstood. If one of them is obviously wrong to you, let me know it now, knowing now helps me more than finding out after I have built another year on top of it. You can contact me via the details on the contact page of my [website](https://www.reyor.co.uk/contact), or by opening an issue on GitHub against the [public repo](https://github.com/tom-hill/symmetric-sovereignty) for this project.
+I will keep publishing these as they change, including the ones that turn out to be badly asked, or entirely misunderstood. If one of them is obviously wrong to you, let me know it now, knowing now helps me more than finding out after I have built another year on top of it. You can contact me via the details on the contact page of my [website](https://www.reyor.co.uk/contact/), or by opening an issue on GitHub against the [public repo](https://github.com/tom-hill/symmetric-sovereignty) for this project.
 
