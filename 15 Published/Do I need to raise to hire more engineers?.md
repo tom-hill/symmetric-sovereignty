@@ -48,7 +48,7 @@ Work spends far longer waiting than being worked on: for a decision, a review, a
 
 ### Priorities nobody can name
 
-When everything's urgent, nothing is. If your team can't tell you what matters most this week, they're busy, but on what? More people means more of that. More decision makers, more decisions to be made, more voices. Sure you end up with more. But more what exactly?
+When everything's urgent, nothing is. If your team [can't tell you what matters most this week](https://www.reyor.co.uk/desk/do-i-need-a-cto-or-a-cpo/), they're busy, but on what? More people means more of that. More decision makers, more decisions to be made, more voices. Sure you end up with more. But more what exactly?
 
 ### Code nobody uses
 

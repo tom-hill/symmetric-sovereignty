@@ -89,7 +89,7 @@ So AI is a reason to scale this way, and sooner. A well-guided engineer with AI 
 
 When there's a true capacity constraint: the team is working on the right things, the work flows, and there's still more that matters than they can do. Or when there's a skills gap different enough that the team can't close it, or one that would create a capacity constraint if they tried.
 
-I don't have a default for who that hire should be. Every company, every team, every skill, and every objective is different. What I'd look at is the map. If it shows the bottleneck is people doing the work, hire. If it shows waiting, decisions, or hand-offs, a new person adds to the queue.
+I don't have a default for [who that hire should be](https://www.reyor.co.uk/desk/do-i-need-a-cto-or-a-cpo/). Every company, every team, every skill, and every objective is different. What I'd look at is the map. If it shows the bottleneck is people doing the work, hire. If it shows waiting, decisions, or hand-offs, a new person adds to the queue.
 
 Pay for it with what the last improvement earned. When you've shipped faster, kept a customer, or freed capacity, the margin that creates is what funds the next person. That keeps your growth in step with your revenue. If you'd rather borrow for it, the first piece has [what debt changes, and what it doesn't](https://www.reyor.co.uk/desk/do-i-need-to-raise-to-hire-more-engineers/).
 
