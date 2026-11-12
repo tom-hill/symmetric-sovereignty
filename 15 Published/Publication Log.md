@@ -23,6 +23,8 @@ tags: [index, published]
 
 | 2026-11-06 | [[How do I scale engineering without funding?]] | [reyor.co.uk](https://www.reyor.co.uk/desk/how-do-i-scale-engineering-without-funding/), The Desk | `/desk` brief, reyor-website #420 | **published** — second *practice* piece. Quote used with explicit written permission. | — |
 
+| 2026-11-12 | [[Do I need a CTO or a CPO?]] | [reyor.co.uk](https://www.reyor.co.uk/desk/do-i-need-a-cto-or-a-cpo/), The Desk | a brief, drafted by Claude | **published** — third *practice* piece, and the first to sell the fractional CPTO seat directly, so it declares that interest in the opening. Receipts and all three external citations verified before publication. URL recorded once the site confirms it live | — |
+
 ## Statuses
 `draft` → `ready` → `published` → responses logged in [[Encounters Index|75 Encounters]]
 
