@@ -15,6 +15,29 @@ tags: [open]
 ## What prompted it
 Four separate questions have now landed on the same shape: govern the process, not the substance. → [[OQ-16 Morality Across Scales and the Blind Side]], [[OQ-02 Creed to Prescription]], [[OQ-17 Can Sovereignty Be Netted]], [[OQ-13 Enumerate the Duties]]. At four arrivals that stops being a coincidence and becomes a description of the framework.
 
+## A fifth arrival, from an unexpected direction — 2026-11-12
+
+> [!claude]
+> The four arrivals above are all ethical or political questions, which is the easy place for proceduralism to win: nobody expects a philosophy to adjudicate cruelty. **The fifth arrived in the commercial practice, where there was no reason for it to.**
+>
+> The practice checklist capped internal links in a published piece at five, to stop a reader having so many ways out that they never reach the call to action. Tom replaced the cap with a limit on **asks**, and uncapped the reading. → [[Outreach and Content]]
+>
+> The order of his reasoning is the evidence, and it is worth reading twice:
+>
+> > We don't want a strict forced funnel to a conversation, we want people to consume the content and want to buy because of it.
+>
+> The justification is the **conduct**: we do not arrange the reader's path. Asked what the softer reading of it was, Tom put the whole position in two sentences:
+>
+> > The objective isn't to sell, but to show people why they might want to work with me. The decision is theirs. I'm not going to try and force them or trick them into a transaction.
+>
+> So the benefit, when it is named at all, is that someone who reads more of the work is more likely to **want** to work with him. That is offered afterwards, as a remark, and nothing rests on it. Had the argument run the other way round — more reading produces more business, therefore remove the cap — it would be an ordinary optimisation and no evidence of anything. It did not run that way round.
+>
+> **Why this one is harder to dismiss as a flinch.** The procedural turn is cheap in ethics, where substance is contested and hedging is comfortable. It is expensive here: a piece that limits a reader's ways out performs better on the measures this industry uses, and Tom gave that up for a reason about conduct, in his own commercial interest, against a convention he had no obligation to resist. A nerve lost about substance does not usually show up as a willingness to pay for it.
+>
+> **And it has a shape the other four do not.** It is an asymmetry of **locus**: cap what is ours (the ask), never what is theirs (the reading). A rule limiting what the reader may consume would govern their side of the exchange. That is not "govern the process, not the substance" restated; it is a rule about *whose* side a constraint may sit on, which may be the more precise form of the thing the four arrivals keep circling. → [[OQ-13 Enumerate the Duties]]
+>
+> If that generalises, the framework is not procedural so much as **locus-bounded**, and the Part 8 test below should be run with it in hand: does the venture capital objection reduce to foreclosure, or to *capital constraining what is the founder's rather than its own*?
+
 ## The evidence, both ways
 
 **The notebook is morally confident.** Strength *"using it exclusively to protect and elevate the strength of others, never to dominate, exploit or force."* That is a substantive prohibition, not a procedure. So is *"the standardised stillness sold as peace is the deeper danger."* So is the whole of [[Part 8 — The Model for Modern Business is Broken]], which is a judgement about other people's businesses delivered without hedging.
