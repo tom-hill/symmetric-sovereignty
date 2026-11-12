@@ -32,7 +32,7 @@ Both matter. But in my experience, most of the waste in a software company doesn
 
 ## Why can't I just hire both?
 
-You can, if you can afford two senior salaries and have enough work to keep both of them busy. Most founder-led companies of up to £20m in revenue can fund one. Whichever you hire, the other discipline goes unled, or it falls back to you.
+You can, if you can afford two senior salaries and have enough work to keep both of them busy. In my experience, most founder-led companies of up to £20m in revenue can fund one. Whichever you hire, the other discipline goes unled, or it falls back to you.
 
 The usual first choice is a CTO. Pave looked at 1,947 companies in its customer base with only one C-level executive who wasn't a founder, and that executive was a CTO 45% of the time, well ahead of a CFO (18%) or a CMO (12%) ([Pave, *Who should your first C-level executive hire be?*](https://pave.com/blog-posts/who-should-your-first-c-level-executive-hire-be)). Pave says its data skews heavily towards tech companies, so read it as what software companies tend to do, not what every business does. It doesn't give a figure for CPOs at all … which might tell you something of its own.
 
