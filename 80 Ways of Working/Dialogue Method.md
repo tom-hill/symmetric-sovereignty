@@ -41,6 +41,7 @@ tags: [method]
 5. Prefer "here is where this strains" to "here is what you should think".
 6. When a principle recurs, say so — convergence is data.
 7. Remember the Herbert warning applies to you. → [[OQ-04 The Herbert Question]]
+8. **Quote Tom as he said it, not as you thought he should have said it.** Typos in a typed message may be fixed. Grammar may not, and neither may word choice, because a quotation is a record of what he said and a tidied one is a record of your preference. Where a written entry exists it is photographed, so a transcription has to align with the photograph and cannot be touched at all. Tom, 2026-11-20: *"Fixing typos in typed messages is fine, but we don't change grammar, as if we quote me it should be what I said, not what we thought i should have said."* The dividing line is the same one that governs his published prose: a slip is mechanical, a construction is his. → [[Practice Draft Template]]
 
 ## The pairing protocol
 
