@@ -3,7 +3,7 @@ type: publication
 kind: practice
 status: published
 created: 2026-11-20
-question: Why is my engineering team slow?
+question: Why are my developers slow to ship?
 description: Usually not because anyone is working slowly. Where the time actually goes, the three things it waits on, and what to check before you hire another developer.
 image:
 image_alt:
@@ -47,7 +47,7 @@ When it isn't, work starts before it's understood, gets changed halfway through,
 
 Seventy engineers in six teams were shipping on a three-month cycle, in a company that had spent a long time trying to fix it with pressure. Everyone had agreed the problem was speed. Nobody had asked what was actually slowing it down. It was confusion, not effort. The teams got clarity about their roles, about what mattered to the business and to customers, and the room to decide for themselves. [Three months became two weeks or less](https://www.reyor.co.uk/work/). The pressure had been the thing slowing them down.
 
-Every case study says what it cost me, and that one cost me my standing with some of the senior leadership. The company expected leaders to know every detail. Leaving room for the teams to decide meant walking into meetings without the answers people expected, and being honest about the ambiguity instead. I was called a rebel, and incapable. I'd do it the same way again.
+Every case study says what it cost me, and that one cost me my standing with some of the senior leadership. The company expected leaders to know every detail. Leaving room for the teams to decide meant walking into meetings without the answers people expected, and being honest about the ambiguity instead. I was called a rebel, and incapable. I'd look for a better way to explain it next time, and do the same thing anyway.
 
 ## Do they trust each other enough to ship?
 
