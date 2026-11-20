@@ -25,6 +25,8 @@ tags: [index, published]
 
 | 2026-11-12 | [[Do I need a CTO or a CPO?]] | [reyor.co.uk](https://www.reyor.co.uk/desk/do-i-need-a-cto-or-a-cpo/), The Desk | a brief, drafted by Claude | **live** — third *practice* piece, and the first to sell the fractional CPTO seat directly, so it declares that interest in the opening. Receipts and all three external citations verified before publication. The £20m affordability line gained *in my experience* before it went out. Confirmed live 2026-11-12, and the cluster now links both ways | — |
 
+| 2026-11-20 | [[Why are my developers slow to ship?]] | reyor.co.uk, The Desk | a brief, drafted by Claude | **published** — fourth *practice* piece, renamed from *Why is my engineering team slow?* in the rewrite. Cites all three earlier practice pieces, so the Desk cluster now has a visible hub. First piece under the ask limit rather than the link cap. Two typos fixed; `question:` left as Tom wrote it, which no longer matches the title. URL to record once live | — |
+
 ## Statuses
 `draft` → `ready` → `published` → responses logged in [[Encounters Index|75 Encounters]]
 
