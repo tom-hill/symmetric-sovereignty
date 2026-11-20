@@ -58,7 +58,7 @@ Underneath it, this is about communication. Most problems are people problems, a
 
 ## How do I tell which one I need right now?
 
-Ask where work waits. It normally waits in one (or more) of three places:
+[Ask where work waits](https://www.reyor.co.uk/desk/why-are-my-developers-slow-to-ship/). It normally waits in one (or more) of three places:
 
 - **on deciding what to build:** priorities change weekly, the team builds things nobody uses, and every customer request feels urgent. That's a product gap;
 - **on building it:** the priorities are clear, but releases are slow, things break, and estimates mean little. That's an engineering gap;

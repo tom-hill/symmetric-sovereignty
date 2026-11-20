@@ -44,7 +44,7 @@ In the teams I've led, in four key places.
 
 ### Work that waits
 
-Work spends far longer waiting than being worked on: for a decision, a review, a test environment, another team (the list would be endless). Every queue is capacity you're already paying for and not getting. Adding people adds to the queues at the same rate it allows the queues to be handled, it's the exact same problem … just bigger.
+[Work spends far longer waiting than being worked on](https://www.reyor.co.uk/desk/why-are-my-developers-slow-to-ship/): for a decision, a review, a test environment, another team (the list would be endless). Every queue is capacity you're already paying for and not getting. Adding people adds to the queues at the same rate it allows the queues to be handled, it's the exact same problem … just bigger.
 
 ### Priorities nobody can name
 
